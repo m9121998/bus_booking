@@ -1,0 +1,87 @@
+# Empty CSS file for your own CSS
+
+.dropdown-menu {
+	display: none;
+}
+
+.dropdown:hover .dropdown-menu {
+	display: block;
+}
+
+.sub-heading {
+	color: green;
+}
+
+.sub-line {
+	border-color: green;
+}
+
+.img-content {
+	width: 100%;
+}
+
+.box {
+	background-color: #D7D7D7;
+	height: auto;
+}
+
+.heading h4 {
+	font-family: 'Open Sans',arial,sans-serif;
+	font-size:18px;
+	color:green;
+	overflow:hidden;
+	text-align: left;
+	text-overflow: ellipsis;
+	max-height: initial;
+	white-space: nowrap;
+	margin-top:15px;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.content p {
+	text-align: justify;
+	text-overflow: ellipsis;
+	overflow:hidden;
+	padding-left:10px;
+	padding-right:10px;
+	font-size: 13px;
+	max-height: 57px;
+}
+
+.button-readmore a{
+	margin-left:10px;
+	margin-bottom:10px;
+}
+
+.nav-item {
+	margin-right: 30px;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.nav-link {
+	color: green;
+}
+
+.nav-link:hover {
+	text-decoration: underline;
+	color:green;
+}
+
+.w3-content img {
+	width: 100%;
+	max-height: 600px;
+}
+
+.mySlides {
+	display:none;
+}
+
+.w3-left, .w3-right, .w3-badge {
+	cursor:pointer;
+}
+
+.w3-badge {
+	height:13px;width:13px;padding:0;
+}
